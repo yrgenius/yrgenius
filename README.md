@@ -1,6 +1,6 @@
 <div id="header" align="center">
 
-## Всем привет 👋, меня зовут Юрий
+### Всем привет 👋, меня зовут Юрий
 ### я начинающий Frontend Developer
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="105"/>
@@ -27,11 +27,18 @@
 
 ----------
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrgenius&theme=aura)
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrgenius&theme=aura)&nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yrgenius&theme=aura) 
+<div id="statistics" align="center">
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrgenius&theme=aura"/>
+    <div></div>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrgenius&theme=aura"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yrgenius&theme=aura"/>
+    <img src="http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrgenius&theme=aura&utcOffset=8"/>
 
-![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrgenius&theme=aura&utcOffset=8) 
+</div>
+
+
+
 
 
 
@@ -44,8 +51,9 @@
 
 <!--
 
-Иконки  https://github.com/devicons/devicon/tree/master/icons
-Гифки   https://giphy.com/
+Иконки      https://github.com/devicons/devicon/tree/master/icons
+Гифки       https://giphy.com/
+Статистика  https://github-profile-summary-cards.vercel.app/demo.html
 
 **yrgenius/yrgenius** is a ✨ _special_ ✨ repository because its `README.md` (this file) appears on your GitHub profile.
 
