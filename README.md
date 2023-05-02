@@ -29,7 +29,6 @@
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/profile-details?username=yrgenius&theme=aura)
 
-<<<<<<< HEAD
 ![](http://github-profile-summary-cards.vercel.app/api/cards/repos-per-language?username=yrgenius&theme=aura)&nbsp;&nbsp;&nbsp; ![](http://github-profile-summary-cards.vercel.app/api/cards/most-commit-language?username=yrgenius&theme=aura) 
 
 ![](http://github-profile-summary-cards.vercel.app/api/cards/productive-time?username=yrgenius&theme=aura&utcOffset=8) 
