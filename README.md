@@ -1,7 +1,7 @@
 <div id="header" align="center">
 
 ### Всем привет 👋, меня зовут Юрий
-### я начинающий Frontend Developer
+### мне интересна разработка, поэтому я здесь
 
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="105"/>
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="105"/>
