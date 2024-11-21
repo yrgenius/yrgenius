@@ -2,7 +2,7 @@
 
 ### Всем привет 👋, меня зовут Юрий
 ### мне интересна разработка, поэтому я здесь
-
+###
 <img src="https://media.giphy.com/media/3oKIPnAiaMCws8nOsE/giphy.gif" width="100" height="105"/>
 <img src="https://media.giphy.com/media/13HgwGsXF0aiGY/giphy.gif" width="200" height="105"/>
 <img src="https://media.giphy.com/media/349qKnoIBHK1i/giphy.gif" width="200" height="105"/>
@@ -23,7 +23,6 @@
     <img src="https://github.com/devicons/devicon/blob/master/icons/javascript/javascript-original.svg" title="JavaScript" alt="JavaScript" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/npm/npm-original-wordmark.svg" title="npm" alt="npm" width="40" height="40"/>&nbsp;
     <img src="https://github.com/devicons/devicon/blob/master/icons/github/github-original-wordmark.svg" title="Github" alt="Github" width="40" height="40"/>
-    <img src="https://github.com/devicons/devicon/blob/master/icons/react/react-original-wordmark.svg" title="React" alt="React" width="40" height="40"/>
 </div>
 
 ----------
